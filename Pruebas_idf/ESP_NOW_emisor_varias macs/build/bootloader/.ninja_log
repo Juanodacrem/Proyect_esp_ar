@@ -1,0 +1,249 @@
+# ninja log v5
+42	727	7606442085563421	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	af3bb3378822dcf0
+24	799	7606442086313224	project_elf_src_esp32s3.c	dac1562487ac9320
+24	799	7606442086313224	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/project_elf_src_esp32s3.c	dac1562487ac9320
+35	814	7606442086905728	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	32b95f388908fbee
+45	819	7606442087315562	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/interrupts.c.obj	3011fc4df7d2540f
+32	834	7606442086864766	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	a8fe08496c9ea252
+38	881	7606442087567580	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	260b08ecd3569c39
+729	1420	7606442092225368	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gpio_periph.c.obj	cace979054ba0a66
+834	1837	7606442097343452	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/dedic_gpio_periph.c.obj	83d2ea7e37ad0496
+799	1847	7606442096585000	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32s3.c.obj	c34dbc6d4df7a93f
+815	1941	7606442097770447	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/uart_periph.c.obj	b4b6d8709de45318
+819	1985	7606442097870440	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/adc_periph.c.obj	dd4088e449feaea2
+881	2093	7606442098793621	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gdma_periph.c.obj	918ccfe7af4c71b3
+1420	2261	7606442100976140	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/spi_periph.c.obj	64eea98004b22dd7
+1847	2673	7606442104665844	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/pcnt_periph.c.obj	66ba2104f7aa950f
+1837	2791	7606442105695902	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/ledc_periph.c.obj	c0b4970282bf3fd8
+1985	2951	7606442108278432	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdm_periph.c.obj	278ce9fb633209e6
+1941	2986	7606442108208483	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rmt_periph.c.obj	eea5658e73c759ca
+2262	3012	7606442108758450	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2c_periph.c.obj	8454dd49875103ea
+2093	3032	7606442108758450	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2s_periph.c.obj	b05f8966ea2cf442
+2674	3375	7606442111956847	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/temperature_sensor_periph.c.obj	8feebb296bc80c8e
+3012	3634	7606442114894807	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mpi_periph.c.obj	f368395afb86fff7
+2792	3654	7606442114904814	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/timer_periph.c.obj	4fc891c978205f9b
+2986	3711	7606442116142680	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mcpwm_periph.c.obj	c12eba6fc37b9df7
+2951	3860	7606442117134124	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/lcd_periph.c.obj	d557af9450fac13c
+3033	3930	7606442118144138	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdmmc_periph.c.obj	ef5f8f9dab0417db
+3375	4121	7606442120285467	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/touch_sensor_periph.c.obj	4f66d05cfb68111b
+3654	4299	7606442121646948	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/usb_periph.c.obj	f7ab71e329b3f383
+3861	4406	7606442122927177	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rtc_io_periph.c.obj	359e3a8572946870
+3634	4482	7606442123037148	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/twai_periph.c.obj	789119666500f786
+3712	4487	7606442123047160	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/usb_dwc_periph.c.obj	bfbe4d1f66aa4e55
+4121	5324	7606442132267902	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	fcfa35026762c6c5
+4299	5535	7606442133769724	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj	f77ddd9d6e46bc1
+4407	5664	7606442134129714	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	8585522e50ebbb79
+4482	5713	7606442134189723	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32s3/efuse_hal.c.obj	57cddc650925a1ca
+4487	5974	7606442137323718	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	4370d09b3098ed98
+3931	6387	7606442142739955	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	ba73df9c66f5afe0
+5324	6428	7606442143369954	esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj	5d5352bed15a8fb3
+5665	6704	7606442145141359	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	714c86537cf0e7c3
+5535	6852	7606442145600862	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	922a54cdf80804a9
+5713	7347	7606442151527663	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	86c6fda82fd8f698
+5974	7460	7606442152747668	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	bd53d778cbad8ca4
+6388	8176	7606442157120665	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	a80003705a9d0166
+6705	8295	7606442160404740	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	5a10460ab73e3a34
+6428	8363	7606442161513774	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	551c955e96e3ec05
+6852	8596	7606442164056308	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	2214990b7e4adf37
+7461	9298	7606442169797140	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	c213e9dfef8244b8
+8176	9511	7606442172994610	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32s3.c.obj	2ad3ce638ac22cf7
+7347	9750	7606442176093104	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	c3950da917f558f3
+8364	9981	7606442178688265	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	6990d3fb3e68f04d
+8296	10355	7606442181534428	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	e9e259778b3dde3a
+8596	10369	7606442181904440	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32s3.c.obj	6a66529e00933efb
+9512	10968	7606442187492273	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	6029c328b12094e
+9298	11239	7606442189204672	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	c6c0cb194ef54dc5
+9981	11328	7606442191772470	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	3046e6e4183a59c7
+10355	11889	7606442197323889	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	f664bce1d9fb1b3d
+9750	11951	7606442198084534	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	bd4740164722bafc
+10369	12080	7606442199532298	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	af02256aec808076
+11239	12295	7606442201223329	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_sha.c.obj	cfafeca9b434f635
+10968	12348	7606442201845348	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	ff2f0e89abf4a328
+11328	12382	7606442201865362	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_soc.c.obj	38fe9db0078a86ff
+12080	13872	7606442214868832	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_table.c.obj	95bab57e149e1e66
+11951	13910	7606442217019611	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	33752f7174fabd6d
+12295	14058	7606442219441394	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_fields.c.obj	ca71505e5f151e94
+11890	14066	7606442218869585	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_esp32s3.c.obj	989b231ad2943fc2
+12348	14253	7606442221434510	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_rtc_calib.c.obj	40bf531cac1e505b
+12382	14362	7606442221674502	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_utility.c.obj	42699a792676acad
+13910	15515	7606442231904742	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	c54ef356cd692d64
+13872	15525	7606442233054403	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	d48cc8bc61ca5942
+14066	15677	7606442235183269	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj	7adfedb7331604ef
+14058	15739	7606442235283274	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	92834390e6fd325a
+14253	15745	7606442235663271	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	23ee26fbd9e3672b
+14362	15988	7606442237848514	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	dee3995bffdc6579
+15525	16489	7606442242566407	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	cd38ea75176d0ea
+15677	16944	7606442246153115	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/cpu_region_protect.c.obj	3711e91038b29765
+15515	17295	7606442250722407	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/esp_cpu_intr.c.obj	70166b6220f1f8ef
+15739	17390	7606442251327505	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk.c.obj	5abed6533b6cb82f
+15746	17486	7606442253022676	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk_init.c.obj	7a0102f798e0c89
+15989	18105	7606442257275677	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_init.c.obj	46d9f0aaf8c5e3a6
+17295	18411	7606442262882406	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/chip_info.c.obj	9d2d7e549c4aa105
+16490	18499	7606442263622377	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_sleep.c.obj	5a955d1802353f27
+17390	18527	7606442263522403	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	928d98d93be44a5f
+16944	18651	7606442264532407	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_time.c.obj	dd987e30bcf7bca5
+17486	18761	7606442266273701	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	afe8b291808d5951
+18105	18931	7606442267809562	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	4320b52d02dfb77d
+18651	19594	7606442273271799	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	b5fc2c7eb052e5d8
+18499	19761	7606442274526028	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	fbda447d92c7cf40
+18411	19895	7606442275464612	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj	f3bdc4010b1d0e04
+18527	19973	7606442278013288	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	c122ab253382c04f
+18762	20024	7606442277378969	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_systimer.c.obj	c9c206566de86706
+18931	20217	7606442280123048	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_wdt.c.obj	d8a7cb1ebe3d5ab0
+19594	20959	7606442287034115	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_esp32s2_esp32s3.c.obj	9af80a17dfaea02e
+19762	21077	7606442289875370	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_writeback_esp32s3.S.obj	1524fa86a2460724
+20025	21192	7606442290085382	esp-idf/log/CMakeFiles/__idf_log.dir/log_noos.c.obj	4feb26320d576398
+20217	21339	7606442291836304	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	eb0968c155d8919e
+19974	21373	7606442291546313	esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj	5fa7899bd47e1a22
+19896	21466	7606442294057385	esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj	bd653ac344bf7000
+21466	23751	7606442315519813	esp-idf/log/liblog.a	afb0e31353e814d1
+23751	25179	7606442329670023	esp-idf/esp_rom/libesp_rom.a	33467b00ef24d33
+25179	26103	7606442338571019	esp-idf/esp_common/libesp_common.a	adbd67e8298669ed
+26103	27412	7606442351804374	esp-idf/esp_hw_support/libesp_hw_support.a	1c10f9df6fb0da6f
+27412	28909	7606442367299091	esp-idf/esp_system/libesp_system.a	f3ae41a5cd42b34a
+28909	29875	7606442377364372	esp-idf/efuse/libefuse.a	3897e3b6e266d32a
+29875	31428	7606442391496789	esp-idf/bootloader_support/libbootloader_support.a	efc5d6ed5e664145
+31428	32695	7606442405778598	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	5a69e75c89cfe145
+32696	33901	7606442417866226	esp-idf/spi_flash/libspi_flash.a	b9673916ef1a745e
+33902	35006	7606442427628315	esp-idf/hal/libhal.a	e0fcb4f4922286a5
+35007	36225	7606442440680700	esp-idf/micro-ecc/libmicro-ecc.a	5f0e7c93ef7c56b5
+36225	37520	7606442454039277	esp-idf/soc/libsoc.a	ff2fbb101544f812
+37520	38892	7606442466645238	esp-idf/xtensa/libxtensa.a	be7475cbcf8059f
+38892	40047	7606442478339668	esp-idf/main/libmain.a	29d8449e10f23aa2
+40048	41182	7606442489383991	bootloader.elf	e4fe8832735a970d
+41182	43224	7606442511501177	.bin_timestamp	39a5bfb07cbab5a4
+41182	43224	7606442511501177	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/.bin_timestamp	39a5bfb07cbab5a4
+43225	44202	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43225	44202	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+53	184	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+53	184	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+45	170	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+45	170	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	155	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	155	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	151	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	151	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	155	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	155	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	156	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	156	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	181	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	181	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	156	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	156	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	169	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	169	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	172	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	172	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	161	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	161	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	155	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	155	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	152	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	152	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	153	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	153	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	161	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	161	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	174	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+43	174	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+45	184	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+45	184	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+59	196	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+59	196	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	160	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	160	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	168	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	168	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	151	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	151	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	155	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	155	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	154	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	154	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	186	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	186	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+94	218	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+94	218	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	163	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	163	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	155	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	155	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	163	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	163	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	154	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	154	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	152	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	152	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	155	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	155	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	246	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	246	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	151	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	151	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+44	194	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+44	194	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	182	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	182	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+45	167	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+45	167	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+78	227	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+78	227	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+55	216	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+55	216	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	149	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	149	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	154	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	154	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	148	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	148	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	144	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	144	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	211	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	211	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	148	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	148	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	188	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	188	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	160	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	160	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	195	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	195	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	156	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	156	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+57	199	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+57	199	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	152	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	152	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+57	217	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+57	217	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	153	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	153	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	160	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+42	160	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	152	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+37	152	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	150	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	150	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	175	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	175	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	154	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	154	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	210	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	210	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	147	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+41	147	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	148	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	148	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	151	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+39	151	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+66	226	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+66	226	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	158	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+40	158	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+44	168	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+44	168	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	150	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	150	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	189	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
+38	189	0	C:/Users/juano/OneDrive/Escritorio/SDK-esp/Proyecto_ESP_NOW_calentador/Software/Pruebas/ESP_NOW_emisor_varias macs/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	fc08f07be23f0358
