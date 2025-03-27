@@ -12,11 +12,11 @@
 
 #define BUTTON_PIN 18
 #define ADC_PIN 1       // Pin del ADC para leer la batería
-
 // Tiempos de pulsación del botón
 #define DEBOUNCE_DELAY_MS 50
 #define SHORT_PRESS_TIME_MS 500
 #define LONG_PRESS_TIME_MS 1500
+
 
 // Objetos para la pantalla Sharp
 Adafruit_SharpMem display(SHARP_SCK, SHARP_MOSI, SHARP_SS, 128, 128);
@@ -67,9 +67,13 @@ bool placa_selected_by_serial = false; // Indica si la placa fue seleccionada po
 
 // Variables para el muestreo
 TaskHandle_t samplingTaskHandle = NULL;
+TaskHandle_t timer_taskHandle = NULL;
+TaskHandle_t message_taskHandle = NULL;  
 bool sampling = false;
 int samplingInterval = 0; // 0: 5 minutos, 1: 30 minutos, 2: 60 minutos
 int readingsCount = 0;
+int timer_answer = 30;
+bool answer_to_father = false;
 
 // Prototipos de funciones
 void handleButton();
@@ -91,6 +95,8 @@ void displayConsultarMenu();
 void returnToMainMenu();
 void handleMandarMensaje();
 void handleMuestreo();
+void timer_task(void *pvParameters);
+void message_task(void *pvParameters);
 
 void setup() {
   Serial.begin(115200);
@@ -134,6 +140,8 @@ void setup() {
 
   // Mostrar el menú inicial
   showInitialMenu();
+  xTaskCreatePinnedToCore(timer_task, "timer_task", 10000, NULL, 1, &timer_taskHandle, 1);
+  xTaskCreatePinnedToCore(message_task, "message_task", 10000, NULL, 1, &message_taskHandle, 1);
 }
 
 void loop() {
@@ -550,17 +558,53 @@ void handleMuestreo() {
 
     if (input.equals("1")) {
       samplingInterval = 5;
-      startSampling();
-    } else if (input.equals("2")) {
+      timer_answer = samplingInterval;
+    }
+    else if (input.equals("2"))
+    {
       samplingInterval = 30;
-      startSampling();
-    } else if (input.equals("3")) {
+      timer_answer = samplingInterval;
+    }
+    else if (input.equals("3"))
+    {
       samplingInterval = 60;
-      startSampling();
-    } else if (input.equals("4")) {
+      timer_answer = samplingInterval;
+    }
+    else if (input.equals("4"))
+    {
       returnToMainMenu();
-    } else {
+    }
+    else
+    {
       Serial.println(F("Opción no válida."));
     }
+  }
+}
+void timer_task (void * pvParameters){
+  Serial.print("Task running in");
+  Serial.println(xPortGetCoreID());
+  int seconds = 0;
+  int minutes = 0;
+  while (true){
+    seconds++;
+    if (seconds < 60){
+      minutes++;
+      Serial.println("minutos: %d", minutes);
+    }
+    else{
+      delay(1000); 
+    }
+    if (minutes == timer_answer){
+      answer_to_father = true;
+      seconds = 0;
+      minutes = 0;
+    }
+    }
+}
+
+void message_task (void * pvParameters){
+  while (answer_to_father == true)
+  {
+    answer_to_father = false;
   }
 }
